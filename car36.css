@@ -1,0 +1,59 @@
+body {
+  /* background-image: url(exclusive-paper.png);
+  background-color: #e3edee; */
+
+}
+
+.stuff {
+    position: absolute;
+}
+
+.stuff img {
+    position: fixed;
+    left: 0;
+    top: 0;
+    max-width: auto;
+    height: 100%;
+    opacity: 0.4;
+    z-index: -1;
+}
+
+.title {
+  color: #484A47;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 8vw;
+  white-space: nowrap;
+
+}
+
+p {
+  color: #536366;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 4vw;
+
+}
+h2 {
+  color: #536366;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 5.5vw;
+}
+
+.page {
+  margin-left: 33%;
+  margin-right: 33%;
+  text-align: center;
+}
+.center {
+
+}
+.vars {
+}
+p2 {
+  color: #536366;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 5.5vw;
+}
+a {
+  color:inherit;
+  text-decoration: underline;
+}
